@@ -1,10 +1,9 @@
 
 # Hey, I'm Priyanshu
+```console
+pss@github:~$ echo "I code on Machine"
 
-Full-stack developer building real-time, scalable web applications with modern technologies. I love debugging complex problems, shipping cool projects, and constantly sharpening my skills.
-
----
-
+```
 ##  Contribution Graph
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=priyanshuwq&label=Visitors&countColor=%23263759)
