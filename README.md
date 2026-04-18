@@ -1,16 +1,21 @@
 
-# Hey, I'm Priyanshu
+### Hey, I'm priyanshu.
 ```console
 pss@github:~$ echo "I code on Machine"
 
 ```
-##  Contribution Graph
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=priyanshuwq&label=Visitors&countColor=%23263759)
+<div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=priyanshuwq&bg_color=0d1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true&area=true&custom_title=Priyanshu's%20Contribution%20Graph)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshuwq&bg_color=0d1117&color=8b949e&line=8b949e&point=8b949e&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
+
+<br>
+
+<img src="https://api.visitorbadge.io/api/visitors?path=priyanshuwq&labelColor=%230d1117&countColor=%232d333b&style=for-the-badge&labelStyle=upper" />
+
+</div>
+
 ---
-
 <p align="center">
-  <i>"Debugging is like being a detective in a crime movie where you're also the murderer."</i>
+  <i>~ If the opportunity doesn't knock, build a door.</i>
 </p>
